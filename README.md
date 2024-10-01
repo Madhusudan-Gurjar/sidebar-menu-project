@@ -13,7 +13,6 @@ This project is a simple webpage that implements a sidebar menu using HTML, CSS,
 ## File Structure
 
 | -- index.html # Main HTML file containing the webpage structure 
-
 |-- style.css # Stylesheet for the webpage design 
 |-- photo.jpg # Background image for the main content
 
