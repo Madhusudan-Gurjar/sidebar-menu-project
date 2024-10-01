@@ -3,6 +3,7 @@ This project is a simple webpage that implements a sidebar menu using HTML, CSS,
 
 # Features
 Responsive sidebar menu that slides in and out using a checkbox toggle.
+
 Smooth animation for the sidebar and menu items.
 Hover effects for menu items and social media icons.
 FontAwesome icons for visual appeal and better UX.
