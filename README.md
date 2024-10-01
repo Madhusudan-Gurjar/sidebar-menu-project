@@ -10,15 +10,8 @@ This project is a simple webpage that implements a sidebar menu using HTML, CSS,
 - FontAwesome icons for visual appeal and better UX.
 - Custom font using the Google Fonts "Poppins".
 
-##External Resources
-The project uses external resources to enhance the visual appeal and functionality:
 
--FontAwesome for icons:  
 
-FontAwesome CDN
-
--Google Fonts for the "Poppins" font:
-Google Fonts - Poppins  
 
 
 
