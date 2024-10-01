@@ -9,6 +9,13 @@ This project is a simple webpage that implements a sidebar menu using HTML, CSS,
 - Hover effects for menu items and social media icons.
 - FontAwesome icons for visual appeal and better UX.
 - Custom font using the Google Fonts "Poppins".
+
+## File Structure
+```
+|-- index.html # Main HTML file containing the webpage structure
+|-- style.css # Stylesheet for the webpage design
+|-- photo.jpg # Background image for the main content
+```
 ## External Resources
 
 The project uses external resources to enhance the visual appeal and functionality:
